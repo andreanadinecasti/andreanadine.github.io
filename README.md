@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andrea! <br/><a href="https://github.com/andreanadinecasti">Software Engineer</a>, <a href="https://www.linkedin.com/in/andrea-nadine-castillo">HCI Researcher</a>, <a href="https://github.com/andreancastillo?tab=repositories">Designer/Developer</a></h1>
+<h1>Hi, I'm Andrea!</h1>
 
 I'm a Computer Science graduate and HCI researcher passionate about building things that are reliable, intuitive, and meaningful.  
 My work spans **systems programming**, **full-stack development**, **AR/VR interaction design**, and **data-driven prototypes** that support real communities.
@@ -6,23 +6,15 @@ My work spans **systems programming**, **full-stack development**, **AR/VR inter
 <h2>👨‍💻 Software Engineering & XR Projects:</h2>
 
 - <b>Multi-Threaded HTTP/1.0 Server (C, POSIX Threads)</b>  
-  - Built a concurrent web server with custom read–write locks and a thread-safe request queue  
-  - Optimized throughput using low-level system calls  
-  - Repo: https://github.com/andreanadinecasti/multi-threaded-http-server
+  - [Repo](https://github.com/andreanadinecasti/multi-threaded-http-server)
 
 - <b>Saving Fin: AR Climate Resilience Game (Unity, C#, AR Foundation)</b>  
-  - Designed interaction flows, snapping mechanics, and prototype-level gameplay  
-  - Built for community climate education through the UCSC SETs HCI Lab  
-  - Repo: https://github.com/SET-Lab-UCSC/cccr_ar_river.git
+  - [Repo](https://github.com/SET-Lab-UCSC/cccr_ar_river.git)
 
 - <b>Health Tracker: Nutrition & Exercise Analytics (Python, SQL, Tableau)</b>  
-  - Created a full ETL process for wellness tracking  
-  - Built dashboards visualizing calorie intake, macros, and weekly fitness trends  
   - Repo: ...
 
 - <b>Slow Spaces: VR Study Tools (Unity + Research Pipelines)</b>  
-  - Supported 19+ VR sessions, data coding, and study infrastructure  
-  - Built internal tools for documentation and usability feedback  
   - Repo: ...
 
 <h2>📊 Data & Research Projects</h2>
