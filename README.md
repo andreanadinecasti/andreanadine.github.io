@@ -21,14 +21,14 @@ My work spans **systems programming**, **full-stack development**, **AR/VR inter
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Andrea Castillo | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="Andrea Castillo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Andrea Castillo | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-[<img align="left" alt="Andrea Castillo | Instagram" width="22px" src="https://cdn.jsedelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="AndreaCastillo | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="AndreaCastillo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AndreaCastillo | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="AndreaCastillo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[github] : https://github.com/andreanadinecasti
-[linkedin] : https://www.linkedin.com/in/andrea-nadine-castillo
-[email] : mailto:andreanadine.castillo@gmail.com
-[instagram] : https://www.instagram.com/andreancastillo/
+[github]: https://github.com/andreanadinecasti
+[linkedin]: https://www.linkedin.com/in/andrea-nadine-castillo
+[email]: mailto:andreanadine.castillo@gmail.com
+[instagram]: https://www.instagram.com/andreancastillo/
 
 <br/><br/>
