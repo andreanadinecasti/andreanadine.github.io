@@ -7,9 +7,9 @@ const meta = {
 const introdata = {
     title: "I’m Andrea Castillo",
     animated: {
-        first: "AR & game developer",
-        second: "Data analysis & visualization",
-        third: "HCI researcher",
+        first: "AR & Game Developer",
+        second: "Data Analysis & Visualization",
+        third: "HCI Researcher",
     },
     description: "Software developer with experience in AR/Unity, data pipelines, multi-agent AI, and HCI research. Comfortable across full-stack web, C/C++ systems, and data tooling.",
     your_img_url: require("./assets/images/profile2.JPG"),
@@ -31,11 +31,6 @@ const worktimeline = [
         where: "Goldilocks USA",
         date: "Jul 2024 - Aug 2024",
     },
-    // {
-    //     jobtitle: "B.S. Computer Science (Graduated with Honors)",
-    //     where: "University of California, Santa Cruz",
-    //     date: "Dec 2024",
-    // },
 ];
 
 const skills = [
@@ -66,27 +61,50 @@ const services = [
     },
 ];
 
+// For local images, use require("./assets/images/yourimage.png")
+// Example: img: require("./assets/images/killerBuns.png")
+//
+// Tips for adding your own images:
+// 1. Put your image files under `src/assets/images/` (e.g. `src/assets/images/my-project.png`).
+// 2. In the dataportfolio array below, reference local images with `require("./assets/images/your-file.png")`.
+//    Example: { img: require("./assets/images/my-project.png"), description: "...", link: "..." }
+// 3. This site applies CSS to force images to a square shape and grayscale:
+//    - Square: CSS uses `aspect-ratio: 1/1` on `.po_item` and `object-fit: cover` on images.
+//    - Black & white: CSS uses `filter: grayscale(100%)` so images appear black/white by default.
+// 4. If you want to keep an image in color, either override the CSS or remove `filter: grayscale(100%)`.
+// 5. If an image looks blurred because it's small, use a higher-resolution file (e.g. 1200x1200 px).
 const dataportfolio = [
-    // {
-    //     img: "https://picsum.photos/600/400?random=1",
-    //     description: "Health Tracker — nutrition & exercise analytics pipeline with SQL, Python, and Tableau dashboards.",
-    //     link: "https://github.com/andreancastillo/health-tracker",
-    // },
     {
-        img: "https://picsum.photos/600/400?random=2",
+        img: require("./assets/images/killerBuns.png"),
+        description: "Killer Buns — Phaser 3 gallery shooter featuring 1D movement, wave-based enemies, and a replay-ready modular game loop.",
+        link: "https://github.com/andreanadinecasti/gallery-shooter",
+    },
+    {
+        img: require("./assets/images/HowTheDaysMove.png"),
+        description: "How the Days Move — atmospheric 1-bit platformer built in Phaser; dreamlike movement, layered tilemaps, and meditative level flow.",
+        link: "https://github.com/andreanadinecasti/how-the-days-move-platformer",
+    },
+    {
+        img: require("./assets/images/rosa.jpg"),
         description: "Saving Fin — mobile AR climate-resilience game built with Unity + AR Foundation; playtesting-informed UI.",
         link: "https://github.com/SET-Lab-UCSC/cccr_ar_river",
     },
-    // {
-    //     img: "https://picsum.photos/600/400?random=3",
-    //     description: "Pac-Man CTF AI Agents — multi-agent AI using A*, BFS, DFS, and Q-learning with competitive tuning.",
-    //     link: "https://github.com/andreancastillo/pacman-ctf-agents",
-    // },
     {
-        img: "https://picsum.photos/600/400?random=4",
+        img: require("./assets/images/httpserver.png"),
         description: "Multi-threaded HTTP/1.0 Server — concurrent C server using POSIX threads, custom read-write locks, and stress-tested optimizations.",
         link: "https://github.com/andreanadinecasti/multi-threaded-http-server",
     },
+    {
+        img: require("./assets/images/ccr.png"),
+        description: "Community-centered Co-design Workshops Toward Empowering Bottom Up Flood Resilience - social media lead for research paper on participatory design for flood resilience.",
+        link: "https://github.com/andreanadinecasti/ccr-workshops",
+    },
+    {
+        img: require("./assets/images/slowspaces.png"),
+        description: "Slow Spaces VR Study — facilitated VR-based research exploring restorative virtual environments, with responsibilities in session moderation and qualitative thematic analysis.",
+        link: "https://github.com/andreanadinecasti/slowspaces",
+    },
+
 ];
 
 const contactConfig = {
